@@ -1,0 +1,3 @@
+[submodule "team2-ChAI/geohack_2019"]
+	path = team2-ChAI/geohack_2019
+	url = https://github.com/risuseful/geohack_2019
